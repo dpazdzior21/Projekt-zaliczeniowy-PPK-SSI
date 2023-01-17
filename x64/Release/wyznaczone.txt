@@ -1,0 +1,14 @@
+trasa: Katowice --> Torun(355 km):
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Torun 165
+trasa: Krakow --> Poznan(465 km):
+Krakow --> Katowice 70
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Poznan 205
+trasa: Tarnow --> Wroclaw
+TRASA NIEMOZLINA DO WYZNACZENIA
+trasa: Katowice --> Lodz(190 km):
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
